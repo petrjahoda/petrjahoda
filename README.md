@@ -29,8 +29,6 @@
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=petrjahoda&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 ![](https://github-readme-stats.vercel.app/api?username=petrjahoda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=petrjahoda&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=petrjahoda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
